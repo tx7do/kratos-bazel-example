@@ -1,0 +1,1 @@
+# kratos-bazel-example
